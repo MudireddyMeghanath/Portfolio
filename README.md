@@ -1,2 +1,2 @@
 # My Portfolio
-Link : MeghanathPortfolio.netlify.app
+Link : meghanathportfolio.netlify.app
